@@ -1,0 +1,252 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+article{
+	width: 980px;
+	height: auto;
+	margin: auto;
+}
+.menu{
+	height: 100px;
+	
+	border: 1px solid #C4C3C3;
+	
+}
+.menu img{
+	margin-left: 80px;
+	float: left;
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+	color: #08CAFA;
+	
+}
+.aa2{
+	color: #07CBE8;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding-top: 30px;
+	margin-left: 40px;
+	margin-right: 20px;
+}
+.a{
+	margin-left: 10px;
+
+}
+.menu ul li a:hover{
+	color: #0AB8B6;
+}
+.banner{
+	width: 980px;
+	height: 600px;
+}
+
+.right img{
+	margin: 10px;
+}
+.yeu{
+	width: 350px;
+	height: 130px;
+}
+.yeu img{
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+.yeu h4{
+	float: left;
+	font-family: tahoma;
+	font-size: 10pt;
+	padding-top: 20px;
+	padding-left: 20px;
+	color: #09E3E0
+}
+.yeu a{
+	text-decoration: none;
+}
+.yeu h5{
+	float: right;
+	
+	
+}
+.yeu a h5{
+padding-top:30px;
+color: #000;
+padding-right: 170px; 
+font-size: 9pt;
+font-family: tahoma;
+
+}
+.yeu a h4:hover{
+	color: #000;
+}
+.viem{
+	width: 150px;
+	height: 190px;
+	background: #fff;
+	text-align: center;
+	margin-left: 10px;
+	float: left;
+	margin-top: 15px;
+}
+.viem img{
+	width: 80px;
+	height: 80px;
+	margin-top: 10px;
+}
+.viem button a{
+	text-decoration: none;
+	color: #000;
+}
+.vip{
+	text-align: center;
+	margin-left: 120px;
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.vip img{
+	margin-top: 10px;
+}
+.vip a{
+	text-decoration: none;
+	color: #025621;
+	margin-top: 10px;
+}
+.vip1 h1{
+	font-family: tahoma;
+	font-size: 18pt;
+	color: #0AC9B5
+}
+.vip1{
+	width: 980px;
+	height: 30px;
+	text-align: center;
+}
+.thik{
+	height: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+.thik h1{
+	font-family: tahoma;
+	font-size: 18pt;
+	color: #0AC9B5
+}
+.viem1{
+	width: 170px;
+	height: 275px;
+     text-align: center;
+     background: #f6f1f1;
+     float: left;
+     margin-left: 60px;
+     margin-top: 30px;
+}
+.viem1 img{
+	width: 140px;
+	height: 150px;
+	margin-top: 10px;
+}
+.viem1 a{
+	text-decoration: none;
+	color: #000;
+}
+.banner12{
+	height: auto;
+	margin-bottom: 20px;
+	
+}
+.banner12 img{
+   width: 550px;
+   height: auto;
+   margin-top: 15px;
+   margin-left: 210px;
+}
+.banner12 h1{
+  font-size: 18pt;
+  font-family: tahoma;
+  font-weight: normal;
+  margin-left: 200px;
+  margin-top: 20px;
+  color: #0EE7C6;
+}
+.banner12 h2{
+	font-size: 16pt;
+	font-family: tahoma;
+	font-weight: normal;
+	margin-left: 200px;
+	margin-top: 15px;
+}
+.c01{
+	width: 660px;
+	height: 700px;
+	float: left;
+
+}
+.c01 h2{
+	color: #06DCB1;
+	margin: 15px;
+}
+.c01 p{
+	margin: 15px;
+}
+.aye{
+	height: 500px;
+}
+.aye h1{
+	font-family: tahoma;
+	font-size: 18pt;
+	color: #07EFC1;
+	padding-top: 20px;
+	padding-left: 360px;
+	padding-bottom: 40px;
+}
+.aye form{
+	margin-left: 300px;
+}
+.n{
+	width: 200px;
+	height: 25px;
+	margin-left: 40px;
+	border: none;
+	margin-bottom: 20px;
+}
+.m{
+	width: 200px;
+	height: 25px;
+	margin-left: 68px;
+	border: none;
+	margin-bottom: 20px;
+}
+.z{
+	height: 25px;
+	margin-bottom: 30px;
+	margin-left: 140px;
+}
+.aye a{
+	text-decoration: none;
+	color: #000;
+	margin-left: 80px;
+}
+.viem1:hover{
+	border: 4px solid #09E7C5;
+}
+.vip:hover{
+	box-shadow: 0 0 4px #08EB58;
+}
+.a13:hover{
+	border: 4px solid #09E7C5;
+}
+.viem:hover{
+	box-shadow: 0 0 4px #08EB58;
+}
+.vl{
+	margin-left: 20px;
+}
+.c01 textarea{
+	margin-left: 15px;
+}

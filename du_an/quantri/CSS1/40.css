@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+article{
+	width: 980px;
+	height:1000px;
+	margin: auto;
+	background: #fff;
+	/*border: 1px solid #08E0BF;*/
+}
+
+.logo{
+	height: 70px;
+	background: #fff;
+}
+.logo h1{
+	font-family: tahoma;
+	font-size: 24pt;
+	line-height: 70px;
+	margin-left: 40px;
+	color: #26aa64;
+}
+.menu{
+	height: 50px;
+    margin-top: 20px;
+    background: #26aa64;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	margin-left: 30px;
+	
+	/*padding-top: 15px;*/
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 15px 18px;
+	line-height: 50px;
+}
+.menu ul li a:hover{
+   color: #046465;
+   background: #fff;
+}

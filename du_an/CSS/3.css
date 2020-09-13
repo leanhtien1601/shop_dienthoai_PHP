@@ -1,0 +1,162 @@
+.bo1 h1{
+	margin-left: 130px;
+	font-family: tahoma;
+	margin-top: 20px;
+	
+}
+.bo1{
+	margin-left: 10px;
+}
+.a1{
+	width: 180px;
+	height: 24px;
+	border: none;
+	margin-left: 20px;
+}
+.b1{
+	width: 180px;
+	height: 24px;
+	border: none;
+	margin-left: 48px;
+}
+.c1{
+	width: 120px;
+	height: 24px;
+	border: none;
+	margin-left: 100px;
+	background: #fff;
+}
+.a11{
+	text-decoration: none;
+	color: #000;
+	font-family: tahoma;
+	font-size: 9pt;
+	margin-left: 55px;
+	margin-right: 25px;
+
+}
+.a22{
+	
+	text-decoration: none;
+	color: #000;
+	font-family: tahoma;
+	font-size: 9pt;
+	
+}
+.left img{
+	position: absolute;
+}
+.at{
+	position: relative;
+	margin-top: 220px;
+	opacity: 0.15
+}
+.ta{
+	position: relative;
+	margin-top: 220px;
+	opacity: 0.15
+}
+.at:hover{
+	opacity: 1
+}
+.ta:hover{
+  opacity: 1
+}
+.bo1 p{
+	font-family: tahoma;
+	font-size: 10pt;
+}
+.ai{
+  width: 350px;
+  background:  #faf8f8 ;
+  height: 420px;
+  
+}
+.ai ul li{
+	list-style: none;
+
+}
+.ai ul li a{
+	text-decoration: none;
+	color: #000;
+}
+.bo02{
+	float: left;
+	width: 630px;
+	height: 300px;
+}
+.ai{
+	float: left;
+}
+.content{
+	height: auto;
+	/*margin-top: 480px;*/
+}
+.ai{
+	text-align: center;
+}
+.ai h1{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-family: tahoma;
+	color: #09E7EA
+}
+.ai ul li{
+	margin-bottom: 15px;
+}
+.ai ul li a:hover{
+  color:#0D9EAF ;
+}
+.bo03{
+	width: 200px;
+	height: 300px;
+	float: left;
+	text-align: center;
+	background: #F4F0F0;
+	margin-left: 2px;
+	margin-top: 20px;s
+}.bo03 p{
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+.bo04{
+	width: 170px;
+	height: 30px;
+	background: #05E081;
+	text-align: center;
+	line-height: 30px;
+}
+.bo04 h3{
+font-family: tahoma;
+color: #fff;
+}
+footer{
+	text-align: center;
+	height: 100px;
+	margin-top: 30px;
+	background: #0b74e4;
+	color: #fff;
+
+}
+footer p{
+	font-family: tahoma;
+	font-size: 11pt;
+	margin-top: 7px;
+}
+body{
+	background: #131313
+}
+.menu {
+	background: #fff;
+}
+.banner{
+	background: #fff;
+}
+.content{
+	background: #fff
+}
+article{
+	background: #fff
+}
+
+   

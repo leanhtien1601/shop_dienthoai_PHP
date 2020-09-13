@@ -1,0 +1,23 @@
+.anhtien table .abc td{
+ border-top: 0.3px solid #D5CFCF;
+/* border-right: 0.1px dotted #D5CFCF;*/
+ border-left: 0.3px solid #D5CFCF
+}
+.vip table .abc td{
+ border-top: 0.3px solid #D5CFCF;
+ /*border-right: 0.1px dotted #D5CFCF;*/
+ border-left: 0.3px solid #D5CFCF;
+ height: 25px;
+}
+.anhtien table{
+	border-radius: 8px;
+}
+.vip table {
+	border-radius: 8px;
+}
+.anhtien table td{
+	font-family: tahoma;
+}
+.vip table td{
+	font-family: tahoma;
+}
